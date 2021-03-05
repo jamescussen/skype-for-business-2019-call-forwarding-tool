@@ -28,7 +28,7 @@ The Skype for Business 2019 Call Forwarding Tool is a tool that uses new PowerSh
 **Screen Shot:**
 
 
-![Image](https://github.com/jamescussen/skype-for-business-2019-call-forwarding-tool/raw/master/skype-for-business-2019-call-forwarding-tool_sm.png)
+![Image](https://github.com/jamescussen/skype-for-business-2019-call-forwarding-tool/raw/main/skype-for-business-2019-call-forwarding-tool_sm.png)
 
 
  
